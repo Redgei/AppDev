@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Dart (lib\\loginPage\\register.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\loginPage\\register.dart"
+        }
+    ]
+}
